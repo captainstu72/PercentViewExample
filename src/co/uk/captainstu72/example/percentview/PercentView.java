@@ -11,6 +11,7 @@ import android.view.View;
 
 //modified version of the code provided on this SO thread.
 //http://stackoverflow.com/questions/19731261/android-draw-circle-with-2-colors-pie-chart
+//Answer originally by Sherif elKhatib.
 
 public class PercentView extends View {
 	
